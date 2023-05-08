@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakubjanoska
 - 👀 I’m interested in learning new things, making stuff simpler using technology...
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL and PowerBI
 - 💞️ I’m looking to collaborate on .?.?.
 - 📫 How to reach me? email...
 
